@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24412641.svg)](https://doi.org/10.5281/zenodo.24412641)
 
+This result is now maintained in [theta-host-split-inert-race](https://github.com/leecrossley/theta-host-split-inert-race/tree/main/results/theta-race-curvature-euler-factors). This repository is archived and keeps its releases and DOI.
+
 Fix a rational prime $`p`$. **Six values of a single function of the 547/727 prime race determine the Euler factor at $`p`$ of the primitive product $`\zeta_E/\zeta_F`$.** This includes the conductor primes 2, 547 and 727. The six-value formula uses the known local degree at odd primes. Nine values recover it as well when the degree is left unspecified. [Theorem and reconstruction](PROOF.md)
 
 The measured function at log dilation $`h`$ is the largest limiting symmetric second difference in the width-two race,
